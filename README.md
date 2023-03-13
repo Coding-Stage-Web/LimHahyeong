@@ -1,2 +1,2 @@
 # LimHahyeong
-내 이름은 ✨48 61 68 79 65 6F 6E 67✨, 개발자를 지망하는 학생이죠👩‍💻 언젠가 IT에서 소외되는 이들을 위한 서비스를 만들고 싶어요🙌
+<img src="https://user-images.githubusercontent.com/93020734/224770541-810ae061-8d17-46c7-8076-7a927fdc3f17.png" width="600" height="300" />
